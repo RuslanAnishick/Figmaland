@@ -153,4 +153,60 @@
         margin-top: 85px;
 }
 
-/**/
+.img_girl{
+    text-align: center;
+    background-blend-mode: multiply;
+    float: right;
+    padding-right: 100px;
+}
+
+/*Organize*/
+
+.organize{
+    margin-top: 100px;
+    font-family: 'Graphik', sans-serif;
+    float: left;
+    margin-left: 85px;
+}
+
+.img_macbook{
+    float: right;
+    margin-top: 100px;
+    margin-right: 100px;
+}
+
+/*Prototyping*/
+.prototyping{
+    float: right;
+    margin-top: 200px;
+    margin-right: 275px;
+    position: relative;
+
+}
+
+.input{
+margin-top: 30px;
+display: block;
+font-family: 'Graphik', sans-serif;
+font-weight: 400;
+line-height: 1.5;
+background-color: #fff;
+border: 0px;
+width: 170px;
+}
+
+.img_sub{
+float: right;
+position:absolute;
+margin-left: 180px;
+margin-top: -45px;
+size: 100px;
+}
+
+.news{
+    margin-top: 100px;
+}
+
+/*Partners*/
+
+
