@@ -209,4 +209,45 @@ size: 100px;
 
 /*Partners*/
 
+.partners{
+    text-align: center;
+    margin-top: 100px;
+}
+
+.img_partners{
+    margin-top: 80px;
+    padding: 50px;
+}
+
+/*Testimonials*/
+
+.testimonials{
+    text-align: center;
+    margin-top: 150px;
+}
+
+.p_text3{
+    text-align:inherit;
+    font-family: 'Graphik', sans-serif;
+    line-height: 23px;
+    font-size: 16px;
+    color: #374754;
+    letter-spacing: 0.1px;
+}
+
+.ibm{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.testo{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.designer{
+    margin-top: 30px;
+}
+
+/*Pricing*/
 
