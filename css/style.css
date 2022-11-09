@@ -1,22 +1,38 @@
 @import url('https://fonts.cdnfonts.com/css/graphik');
 
+/*Основные настройки для body*/
+
     .body{
         width: auto;
-        height: auto;
-        background-color: white;
+        height: 6000px;
+        background-color: #fff;
         background-image: url(img/bgc.png);
-        background-size: cover;
+        background-size: 1735px 930px;
         background-blend-mode: multiply;
+        background-position: 50%;
+        background-repeat: no-repeat;
+        background-position: top;
     }
+
+/*Для списка*/
 
   .dekstop_menu{
     word-spacing: 41px;
-    padding-left: 15%;
+    padding-left: 12%;
     vertical-align: top;
     font-size: 15px;
     font-size: 15px;
     line-height: 15px;
     letter-spacing: 0.2px;
+  }
+  
+  .menu{
+    font-family: 'Graphik', sans-serif;
+    font-size: 15px;
+    line-height: 28px;
+    letter-spacing: 0.2px;
+    color: #fff;
+    text-decoration: none;
   }
 
   .main{
@@ -41,4 +57,25 @@
     font-size: 28px;
     letter-spacing: 0.2px;
     color: #fff;
+  }
+
+  .text_h2{
+    font-family: 'Graphik', sans-serif;
+    font-size: 48px;
+    line-height: 55px;
+    letter-spacing: 0.2px;
+    color: #252B42;
+  }
+
+  .p_text1{
+    line-height: 40px;
+    font-size: 28px;
+    letter-spacing: 0.2px;
+    color: #374754;
+    font-family: 'Graphik', sans-serif;
+  }
+
+  .features{
+    text-align: center;
+    margin-top: 550px;
   }
