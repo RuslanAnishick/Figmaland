@@ -18,7 +18,7 @@
 
   .dekstop_menu {
     word-spacing: 41px;
-    padding-left: 12%;
+    padding-left: 12.5%;
     vertical-align: top;
     font-size: 15px;
     line-height: 15px;
@@ -249,3 +249,28 @@ size: 100px;
 
 
 /*Pricing*/
+
+.pricing{ 
+  padding-top: 80px;
+  background-color: #252B42;
+  height: 900px;
+  text-align: center;
+  background-blend-mode: multiply;
+
+}
+
+.text_h2_1{
+  font-family: 'Graphik', sans-serif;
+  font-size: 48px;
+  line-height: 55px;
+  letter-spacing: 0.2px;
+  color: #fff;
+}
+
+.p_text1_1{
+  line-height: 40px;
+  font-size: 28px;
+  letter-spacing: 0.2px;
+  color: #fff;
+  font-family: 'Graphik', sans-serif;
+}
