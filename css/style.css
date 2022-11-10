@@ -467,7 +467,7 @@ text-align: start;
 }
 
 .img_footer{
-padding-top: 105px;
+padding-top: 100px;
 float: left;
 margin-left: 180px;
 
@@ -485,7 +485,7 @@ margin-left: 180px;
   color: #fff;
   line-height: 28px;
   text-align: start;
-  padding-top: 101px;
+  padding-top: 98px;
 }
 
 .text_footer1{
@@ -494,6 +494,6 @@ margin-left: 180px;
 
 .social_footer{
   padding-top: 20px;
-  padding-right: 235px;
   word-spacing: 30px;
+  padding-right: 230px;
 }
