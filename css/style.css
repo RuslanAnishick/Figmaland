@@ -9,9 +9,7 @@
         height: 6000px;
         background-color: #fff;
         background-image: url(img/bgc.png);
-        background-size: 1735px 930px;
         background-blend-mode: multiply;
-        background-position: 50%;
         background-repeat: no-repeat;
         background-position: top;
     }
@@ -248,5 +246,6 @@ size: 100px;
 .designer{
     margin-top: 30px;
 }
+
 
 /*Pricing*/
